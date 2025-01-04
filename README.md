@@ -128,6 +128,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 </p>
 
 <p>
+  
 <img src="https://i.imgur.com/PGe4b44.png" height="80%" width="80%" alt="Step 2 Lab 3"/>
 </p>
 
@@ -142,6 +143,7 @@ This tutorial outlines the post-install configuration of the open-source help de
   - **Other**
 
 <p>
+  
 <img src="https://i.imgur.com/QkUOKCA.png" height="80%" width="80%" alt="Step 2 Lab 3"/>
 </p>
 
